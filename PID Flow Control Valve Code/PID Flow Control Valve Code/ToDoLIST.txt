@@ -1,0 +1,8 @@
+Test Codes:
+(DONE)0. Read potentiometer (ardino)
+(DONE)1. (Manual Mode) Open and Close valve (arduino)
+(DONE)2. Read flowmeter (arduino)
+(DONE)3. Serial Send (arduino/Processing)
+4. Serial Receive (arduino/Processing)
+5. GUI (Processing)
+6. (Auto Mode) PID control Valve (arduino)
